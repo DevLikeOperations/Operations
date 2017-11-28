@@ -1,4 +1,8 @@
-# Declaration of Purpose
+# Dev-Like Operations
+
+_DevOps for the rest of us._
+
+## Declaration of Purpose
 
 Development Operations, or DevOps as we like to call it, refers to the processes by which a bunch
 of unstable code monkies are herded in a productive fashion. It's an answer to the chaos that
