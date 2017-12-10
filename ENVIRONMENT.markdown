@@ -6,11 +6,21 @@ there are some methodologies and configurations that can help with consistent en
 ---
 
 ## Git
-  ### commit templating:
-  Commit templating allows for a consistent methodology of describing the commits from any given developer, 
-  making the whole project much easier to manage as well as work on. This prevents the problems of commits 
-  without descriptions or reasons, as well as confusing but useful commits from late night hackings.
-    - https://gist.github.com/adeekshith/cd4c95a064977cdc6c50
+
+Configuration:
+>Git works pretty well out of the box after just a couple lines, configuring the username and email address. But
+>there are many things that you can tune to make your experience even smoother than git already is. Which is 
+>very smooth.
+
+[git-scm.com](https://www.git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
+
+Commit templating:
+>Commit templating allows for a consistent methodology of describing the commits from any given developer, 
+>making the whole project much easier to manage as well as work on. This prevents the problems of commits 
+>without descriptions or reasons, as well as confusing but useful commits from late night hackings.
+
+[a good example and what I use](https://gist.github.com/adeekshith/cd4c95a064977cdc6c50)
+
 
 ## Vim (and lesser editors)
   ### plugins and ides:
