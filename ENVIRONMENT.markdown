@@ -21,12 +21,16 @@ there are some methodologies and configurations that can help with consistent en
   work done using.
 
 ## Dependencies
-  ### yarn and friends
+  ### yarn and friends:
   If we're going to use node, ruby, or really almost anything, we're going to need management for depepndencies.
   Easily overlooked in a small project, dependencies become a lot of work to upkeep, even though they're quite a
   small job to actually manage. A perfect one for automation to take over! Many parts of this can work into a 
   continuous integration strategy, removing an entire section of work for human programmers.
   
 ## Continuous Integration
+  ### Travis
+  ### Snyk
+  ### Circle
+  ### And so on.
 
 # WORK IN PROGRESS OBVIOUSLY #
